@@ -2,11 +2,25 @@
 
 version: '3'
 
-vars:
-  GREETING: Hello, World!
+includes:
+  procedures:
+    taskfile: ./procedures/Taskfile.yml
 
 tasks:
+  update:
+    dir: ~/__WORKSHOP/devarmory/appimage-store
+    cmds:
+      - git fetch
+      - git pull
+      - npm install
+      #- npm run sync-list
+      #- npm run appindex-download
+    silent: false
   default:
     cmds:
-      - echo "{{.GREETING}}"
+      - git status -s
+      - echo "---"
+      - echo "# APPIMAGES "
+      - echo "> in total = $(ls ./*.AppImage | wc -l)"
+      - ls *.AppImage -1 | grep ".AppImage"
     silent: true

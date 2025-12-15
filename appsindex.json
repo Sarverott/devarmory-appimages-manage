@@ -1,0 +1,70 @@
+{
+    "version":[1,0,0,0],
+    "apps":[
+        {
+            "name":"OpenSCAD",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"UltiMaker Cura",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"Obsidian",
+            "path":"./Obsidian-1.10.6.AppImage",
+            "source":"https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.AppImage",
+            "icon":"https://obsidian.md/favicon.ico",
+            "about":"ultimate notebook utility using markdown and automated mindmaping"
+        },
+        {
+            "name":"KdenLive",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"video editor"
+        },
+        {
+            "name":"Electrum",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"Arduino IDE",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"RPI Imager",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"Flipper Zero Manager",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        },
+        {
+            "name":"OpenSCAD",
+            "path":"./OpenSCAD-2021.01-x86_64.AppImage",
+            "source":"https://files.openscad.org/OpenSCAD-2021.01-x86_64.AppImage",
+            "icon":"https://openscad.org/favicon.ico",
+            "about":"opensource CAD software"
+        }
+    ],
+    "timestamp":0,
+    "triangulumsigil":""
+}

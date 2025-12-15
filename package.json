@@ -18,7 +18,7 @@
   "license": "MIT",
   "author": "Sett Sarverott",
   "type": "commonjs",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "task"
   }
