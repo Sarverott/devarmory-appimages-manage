@@ -1,0 +1,7 @@
+23a0b0321024187cd836ee48fa96ee8d  ./Obsidian-1.10.6.AppImage
+a603e5ae7b850c8794bddf2e85cdf073  ./OpenSCAD-2021.01-x86_64.AppImage
+868ae8b703af378e4fe3c7021e5cb398  ./UltiMaker-Cura-5.11.0-linux-X64.AppImage
+c31bd580d372d67ad9758ac965937cc6  ./arduino-ide_2.3.6_Linux_64bit.AppImage
+7b900842a0bccd5e8f2c2efa2f86d48e  ./imager_2.0.0_amd64.AppImage
+c4d4a14010640472569694ca36ff0392  ./ipfs-desktop-0.47.0-linux-x86_64.AppImage
+b3ac67cdfd98f97bd46acc86956a4c78  ./kdenlive-25.08.3-x86_64.AppImage
