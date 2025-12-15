@@ -1,0 +1,25 @@
+{
+  "name": "bos-workshop-appimages-manage",
+  "version": "1.0.0",
+  "description": "part of B.O.S. - manage your workshop's AppImages with Blacksmith Organization System",
+  "keywords": [
+    "bos",
+    "appimage",
+    "apokryf"
+  ],
+  "homepage": "https://github.com/the-apokryf/bos-devarmory-appimage-manage#readme",
+  "bugs": {
+    "url": "https://github.com/the-apokryf/bos-devarmory-appimage-manage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-apokryf/bos-devarmory-appimage-manage.git"
+  },
+  "license": "MIT",
+  "author": "Sett Sarverott",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "task"
+  }
+}
